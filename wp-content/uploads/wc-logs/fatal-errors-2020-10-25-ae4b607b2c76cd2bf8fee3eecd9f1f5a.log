@@ -1,0 +1,4 @@
+2020-10-25T01:45:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /private/var/www/codepulse/wp-ch-shito/wp-includes/class-wp-image-editor-imagick.php on line 354
+
+2020-10-25T02:09:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /private/var/www/codepulse/wp-ch-shito/wp-includes/class-wp-image-editor.php on line 489
+

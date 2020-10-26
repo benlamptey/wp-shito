@@ -1,0 +1,14 @@
+2020-10-26T09:04:08+00:00 DEBUG 
+====Stripe Version: 4.5.3====
+====Start Log====
+Error: Unable to create domain association folder to domain root.
+====End Log====
+
+
+2020-10-26T09:09:00+00:00 DEBUG 
+====Stripe Version: 4.5.3====
+====Start Log====
+Error: Unable to create domain association folder to domain root.
+====End Log====
+
+
